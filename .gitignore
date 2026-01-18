@@ -1,0 +1,18 @@
+# IDEs and Editors
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumds.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.env
